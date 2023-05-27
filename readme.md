@@ -1,3 +1,6 @@
+[![ALIU|Shpetim](https://bdesign-agency.com/wp-content/uploads/2023/04/dTxpPi9lDf.thumb_-1.png)](https://codepen.io/shpetimaliu)
+
+
 # Slide Image with JavaScript
 
 This JavaScript code allows you to display and switch images in a slider on your web page. You can download the necessary files and follow the instructions below to integrate this slider into your project.
@@ -62,4 +65,4 @@ If you'd like to contribute to this project, please open an [issue](https://gith
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/shpetimaliu/slider/blob/main/LICENSE).
+This project is licensed under the [MIT License]
